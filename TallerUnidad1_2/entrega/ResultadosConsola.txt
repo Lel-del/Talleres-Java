@@ -1,0 +1,48 @@
+SECCIÓN 1: OPERADORES
+seg = 0
+y = 16; x = 9
+div1 = 7.0; div2 = 7.5
+res = false; x = 7
+
+SECCIÓN 2: DECISIONES
+Adolescente: acceso restringido a foros comunitarios.
+Pendiente de Examen Extraordinario
+Tipo de entrada: ESTUDIANTE
+Precio base: $100.00; monto final: $50.00
+Conexión: ACTIVA
+
+SECCIÓN 3: DÍAS DE LA SEMANA
+Ingrese un día (1 = Lunes, 7 = Domingo): Tradicional: Lunes: Jornada Laboral
+Moderno: Lunes: Jornada Laboral
+
+SECCIÓN 4: CAJA
+Caso A
+Cantidad: 3; cliente: VIP; cupón: PROMO1 año
+Subtotal base: $750.00
+Descuento cliente: $150.00
+Subtotal con descuento: $600.00
+Descuento cupón: $50.00
+Base imponible: $550.00
+IVA: $88.00
+Total a pagar = $638.00
+Caso B
+Cantidad: 1; cliente: NUEVO; cupón: PROMO1 año
+Subtotal base: $250.00
+Descuento cliente: $12.50
+Subtotal con descuento: $237.50
+Descuento cupón: $0.00
+Base imponible: $237.50
+IVA: $38.00
+Total a pagar = $275.50
+
+ErrorAsignacion
+Estado de sesión: Sesión inactiva.
+
+ErrorComparacionString
+Los proveedores coinciden exactamente.
+
+ErrorFallThrough
+Categoría Selección: Lunes (Jornada Laboral)
+
+ErrorPrecision
+El porcentaje de avance es: 75.0%
