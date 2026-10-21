@@ -1,0 +1,80 @@
+G bloquea 10 con su escudo.
+G recibe 6 de dano. Vida: 94
+OK: Escudo reduce dano
+G bloquea 2 con su escudo.
+G recibe 0 de dano. Vida: 94
+OK: Escudo evita dano negativo
+G ataca a M
+M recibe 15 de dano. Vida: 85
+OK: Sobrecarga ataque normal
+G ataca con furia a M
+M recibe 30 de dano. Vida: 55
+OK: Sobrecarga furia
+M lanza un hechizo. Mana restante: 0
+G bloquea 10 con su escudo.
+G recibe 20 de dano. Vida: 74
+OK: Hechizo consume mana y aplica defensa
+M no tiene mana suficiente: usa ataque basico.
+M ataca a G
+G bloquea 10 con su escudo.
+G recibe 10 de dano. Vida: 64
+OK: Sin mana usa ataque basico
+No se puede lanzar el hechizo a ese objetivo.
+OK: Objetivo null no consume mana
+M recibe 55 de dano. Vida: 0
+M ha caido.
+No se puede atacar a ese objetivo.
+OK: Vida minima y objetivo derrotado
+G recupera 36 de vida. Vida: 100
+OK: Curacion limitada a vida maxima
+Thorin recibe 40 de dano. Vida: 80
+Thorin recupera 35 de vida. Vida: 115
+Pocion consumida. Restantes: 2
+OK: Pocion cura y se consume
+Thorin recupera 5 de vida. Vida: 120
+Pocion consumida. Restantes: 1
+Thorin recupera 0 de vida. Vida: 120
+Pocion consumida. Restantes: 0
+Inventario vacio.
+OK: Inventario vacio no falla
+Movimiento fuera del tablero.
+Movimiento fuera del tablero.
+OK: Limites del tablero
+Muevete una casilla horizontal o vertical.
+Muevete una casilla horizontal o vertical.
+OK: No saltos ni diagonales
+Thorin se mueve a (1,0).
+OK: Movimiento sincroniza tablero
+La casilla esta ocupada.
+OK: Casilla ocupada por aliado
+Thorin se mueve a (2,0).
+Thorin se mueve a (3,0).
+La casilla esta ocupada.
+OK: Casilla ocupada por enemigo
+Orco recibe 60 de dano. Vida: 0
+Orco ha caido.
+Brujo recibe 45 de dano. Vida: 0
+Brujo ha caido.
+Guardian recibe 70 de dano. Vida: 0
+Guardian ha caido.
+OK: Bajas eliminadas; falta cofre
+Thorin se mueve a (2,0).
+Thorin se mueve a (2,1).
+Thorin se mueve a (2,2).
+OK: Victoria requiere enemigos y cofre
+Thorin se mueve a (1,0).
+Thorin se mueve a (2,0).
+Thorin se mueve a (2,1).
+Thorin se mueve a (2,2).
+OK: Cofre con enemigos no da victoria
+Thorin recibe 120 de dano. Vida: 0
+Thorin ha caido.
+OK: Caida del principal termina mision
+Thorin recibe 0 de dano. Vida: 0
+Gandalf recibe 80 de dano. Vida: 0
+Gandalf ha caido.
+OK: Derrota escuadron vacio
+OK: Entradas invalidas y fin de entrada
+OK: Partida completa por menu hasta victoria
+OK: Partida completa por menu hasta derrota
+RESULTADO: 24 comprobaciones aprobadas.
